@@ -1,6 +1,6 @@
 # Nothing to do here...
 
-
+setup_aws()
 
 case node['platform_family']
 
