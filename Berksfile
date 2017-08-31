@@ -5,4 +5,4 @@ source 'https://supermarket.chef.io'
 metadata
  
 cookbook 'java'
-cookbook 'kagent', github: "AlexHopsworks/kagent-chef", branch: "local"
+cookbook 'kagent', github: "AlexHopsworks/kagent-chef", branch: "vdcurrent"
